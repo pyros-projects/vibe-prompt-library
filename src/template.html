@@ -347,7 +347,7 @@ function init() {
   const variants = DATA.reduce((s, e) => s + (e.variants || []).length, 0);
   const stats = document.getElementById("stats");
   const stat = (n, label) => el("span", {}, el("b", { text: String(n) }), label);
-  stats.append(stat(DATA.length, "entries"), stat(variants, "series variants as sub-entries"), stat(new Set(DATA.map(e => e.author)).size, "authors"), stat(META.rejected, "results left out, mostly for a missing prompt"));
+  stats.append(stat(DATA.length, "entries"), stat(variants, "series variants as sub-entries"), stat(new Set(DATA.map(e => e.author)).size, "authors"));
   const m = document.getElementById("method");
   m.append(el("h3", { text: "How this was collected" }));
   META.method.forEach(p => m.append(el("p", { text: p })));
