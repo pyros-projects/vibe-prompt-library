@@ -1,0 +1,8 @@
+{"sweep_date": "18 Nov 2026", "rejected": 155, "method": [
+ "Collected on 18 Nov 2026 from X, Reddit, the web and GitHub, for posts from May to November 2026, plus the 24 briefs of the Trial vibe benchmark with screenshots of the builds it collected.",
+ "Kept: posts where the author published the full prompt next to a visible result, in the post itself, a reply, a comment, a gist, a repo or a benchmark page. Left out: results without a prompt or with only a paraphrase, a prompt posted under a video it does not match, reruns that only quote someone else's video, prompts that need attached photos, models or engines, and saturated classics without a real twist.",
+ "Series: a series that only swaps the subject (the jelly fruits and animals, the pixel-sports islands, the voxel scenes, the switches, the craft studies, the painting-process clips) is one entry. Its other runs sit under it as sub-entries, each with its own stills and its own prompt, so nothing depends on the original post staying online. A variant got an entry of its own when the mechanic changes.",
+ "Stills: from X and Reddit videos, four frames at 12, 37, 62 and 87 percent of the clip; from web pages, the images the page published; where a page had none, a screenshot of its live demo; for Trial, the screenshot of each model's build.",
+ "Model names, build times and costs are the poster's own claims. Where models can differ is a judgment of how much room a prompt leaves before it saturates. It is not a score.",
+ "Prompts, stills and builds belong to their authors. Every entry links to its source."
+]}
