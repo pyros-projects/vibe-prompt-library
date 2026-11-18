@@ -87,6 +87,8 @@ Prompts that leave room tend to be one of four kinds:
 
 People and pages that publish the prompt with the result, again and again:
 
+- **[Trial by Pyro](https://trial-by-pyro.netlify.app/):** 24 agentic briefs, each built by several
+  models, every build playable side by side.
 - **On X:** [@vib3coded](https://x.com/vib3coded) and [@semichenkko](https://x.com/semichenkko) post a
   `PROMPT` reply under almost every video.
 - **Benchmark pages that freeze the prompt and run every model live:**
